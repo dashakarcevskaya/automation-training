@@ -70,12 +70,12 @@ public class TriangleMathTest {
 
     @Test
     public void sideGreaterThanSumOfOtherTwo() {
-        assertFalse(triangleMath.isTriangle(10.0, 2.0, 3.0));
+        assertFalse(triangleMath.isTriangle(5.3, 4.7, 10.1));
     }
 
     @Test
     public void triangleEquilateral() {
-        assertTrue(triangleMath.isTriangle(9.9, 9.9, 9.9));
+        assertTrue(triangleMath.isTriangle(3.56, 5.3, 7.48));
     }
 
     @Test
