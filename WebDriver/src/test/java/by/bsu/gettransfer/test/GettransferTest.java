@@ -15,6 +15,7 @@ public class GettransferTest {
     private final String returnLocation = "Grodno, Belarus";
     private final String phoneNumber = "123456";
     private final String fullName = "Darya";
+    private final String emptyPhoneNumber = "";
 
     @BeforeClass
     public void browserSetUp() {
@@ -28,7 +29,7 @@ public class GettransferTest {
     public void attemptSignUp() {
         page.signUp();
         page.enterFullName(fullName);
-        page.enterPhoneNumberInSignUpForm("");
+        page.enterPhoneNumberInSignUpForm(emptyPhoneNumber);
         page.signUpClick();
         Assert.assertTrue(page.isErrorMessageVisible1());
     }
