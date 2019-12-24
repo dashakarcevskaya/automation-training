@@ -1,9 +1,0 @@
-﻿<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-
-<suite name="Smoke" verbose="1" >
-    <test name="HomePage">
-        <classes>
-            <class name="by.bsu.framework.test.HomePageTest"/>
-        </classes>
-    </test>
-</suite>
