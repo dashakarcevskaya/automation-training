@@ -6,6 +6,7 @@ public class UserCreator {
 
     public static final String TESTDATA_USER_NAME = "testdata.user.name";
     public static final String TESTDATA_USER_PASSWORD = "testdata.user.password";
+    public static final String INCORRECT_PASSWORD = "testdata.user.password";
 
 
     public static User loginWithCorrectData(){
