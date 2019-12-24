@@ -1,0 +1,57 @@
+2019-12-19 12:39:53,452 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:40:17,556 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - Language changed
+2019-12-19 12:43:12,734 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:43:34,163 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:43:34,189 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:43:34,205 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:43:38,898 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:43:38,913 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:43:41,243 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:43:58,944 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:43:58,960 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:43:58,989 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:44:03,240 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:44:03,253 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:44:04,851 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Choose breakfast
+2019-12-19 12:44:04,877 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:44:04,892 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:44:05,448 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:44:19,756 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:44:19,772 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:44:19,787 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:44:28,085 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:44:28,099 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:44:54,173 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Sorting by rating
+2019-12-19 12:44:54,187 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:44:54,201 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:44:55,583 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:14,171 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:14,180 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:45:14,193 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:45:16,225 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:16,236 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:45:22,360 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Sorting by expensive price
+2019-12-19 12:45:22,371 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:22,380 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:45:23,269 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:27,228 [12] INFO  SeleniumFramework.Pages.ContactPage [(null)] - ContactPage created
+2019-12-19 12:45:32,205 [12] INFO  SeleniumFramework.Pages.ContactPage [(null)] - Question askred
+2019-12-19 12:45:32,213 [12] INFO  SeleniumFramework.Pages.ContactPage [(null)] - ContactPage created
+2019-12-19 12:45:32,609 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:36,376 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:45:50,740 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - Language changed
+2019-12-19 12:45:51,293 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:45:55,341 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:46:07,621 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - Value changed
+2019-12-19 12:46:08,113 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:46:11,823 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:46:28,233 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - Go to CustomerSupportPage
+2019-12-19 12:46:28,256 [12] INFO  SeleniumFramework.Pages.ContactPage [(null)] - ContactPage created
+2019-12-19 12:46:29,147 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:46:33,025 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:46:45,703 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:46:50,009 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:46:50,021 [12] INFO  SeleniumFramework.Pages.SearchResultPage [(null)] - SearchPage created
+2019-12-19 12:46:52,124 [12] INFO  SeleniumFramework.Steps.Step [(null)] - Step created
+2019-12-19 12:46:56,098 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - HomePage created
+2019-12-19 12:47:06,167 [12] INFO  SeleniumFramework.Pages.HomePage [(null)] - Person signed up

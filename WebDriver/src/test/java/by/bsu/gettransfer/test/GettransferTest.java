@@ -1,6 +1,9 @@
 package by.bsu.gettransfer.test;
 
+import by.bsu.gettransfer.driver.DriverSingleton;
+import by.bsu.gettransfer.model.User;
 import by.bsu.gettransfer.page.HomePage;
+import by.bsu.gettransfer.service.UserCreator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
@@ -19,14 +22,13 @@ public class GettransferTest {
 
     @BeforeClass
     public void browserSetUp() {
-       driver = new ChromeDriver();
-       page = new HomePage(driver);
-       driver.manage().window().maximize();
+       driver = DriverSingleton.getDriver();
     }
 
 
     @Test
     public void attemptSignUp() {
+        User testUser = UserCreator.withCredentialsFromProperty();
         page.signUp();
         page.enterFullName(FULL_NAME);
         page.enterPhoneNumberInSignUpForm(EMPTY_PHONE_NUMBER);
@@ -47,9 +49,6 @@ public class GettransferTest {
 
     @AfterClass
     public void browserTearDown() {
-        if (driver != null) {
-            driver.close();
-            driver = null;
-        }
+        DriverSingleton.closeDriver();
     }
 }
