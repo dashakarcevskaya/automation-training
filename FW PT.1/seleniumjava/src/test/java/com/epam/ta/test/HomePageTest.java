@@ -41,7 +41,7 @@ public class HomePageTest extends CommonConditions {
         SearchQueryMain testSearchQueryMain = SearchQueryMainCreator.withIncorrectCity();
         String textOfButtonToSubmitFormForLongStay = new MainPage(driver)
                 .openPage()
-                .searchHotelsByWrongParameters(hotelTerms);
+                .searchHotelsByWrongParameters(terms);
         assertThat(textOfButtonToSubmitFormForLongStay, is(equalTo("Выберете город")));
     }
 }
